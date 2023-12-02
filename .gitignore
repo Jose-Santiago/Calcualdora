@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+
+# Dependencias de desarrollo (si estás utilizando npm)
+npm-debug.log
+yarn-error.log
+
+# Otros archivos y directorios comunes
+.DS_Store
+.env
